@@ -4,7 +4,7 @@ export default class App extends Component {
     render() {
         return (
             <div>
-                哈哈哈
+                哈哈哈456789
             </div>
         )
     }
